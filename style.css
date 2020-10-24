@@ -1,0 +1,12 @@
+h1,h2,h3,p,div,body,border,button{
+	margin:0px;
+	padding:0px;
+}
+body {
+    background-color:gray;
+    margin: 0;
+} 
+.maindiv{ 
+	width:auto;
+	height:auto;
+}
